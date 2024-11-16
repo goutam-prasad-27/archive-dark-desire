@@ -39,7 +39,10 @@ The "Dark Desire - Archive" project is a web-based application that presents a s
 
 1. Clone the repository to your local machine:
 
-     `git clone https://github.com/goutam-prasad-27/archive-dark-desire.git`
+     ```bash
+     git clone https://github.com/your-username/archive-dark-desire.git
+
+     ```
 
 2. Navigate to the project directory:
      `cd archive-dark-desire`

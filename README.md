@@ -40,7 +40,7 @@ The "Dark Desire - Archive" project is a web-based application that presents a s
 1. Clone the repository to your local machine:
 
      ```bash
-     git clone https://github.com/your-username/archive-dark-desire.git
+     git clone https://github.com/rudra-xi/archive-dark-desire.git
 
      ```
 
@@ -67,7 +67,7 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## Author
 
-***[Goutam Prasad](https://github.com/goutam-prasad-27)***
+***[Rudra-xi](https://github.com/rudra-xi)***
 
 ## License
 
